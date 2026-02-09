@@ -1,2 +1,7 @@
 200/700/3
+<<<<<<< HEAD
 aaaaa
+=======
+rrrr
+aaaa
+>>>>>>> branchName2
